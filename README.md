@@ -11,7 +11,7 @@ pip3 install pyowm
 pip install twx.botapi
 pip install pyowm
 ```
-- Setup Telegram TOKEN and OpenWeather:
+- Setup Telegram TOKEN and OpenWeather API Key:
 ```
 TOKEN = "xxxxxxxx:xxxxxx"
 OWMKEY = "xxxxxxx"
